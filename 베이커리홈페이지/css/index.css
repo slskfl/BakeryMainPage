@@ -128,7 +128,7 @@ nav>ul{
     notice>table>tbody>tr>th trdms tabled의 후손*/
     padding: 5px 0;
 }
-.notice>table tr>th{
+.notice>table tr>td{
     padding: 5px;
 }
 .notice>table tr:nth-child(2n){
